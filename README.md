@@ -41,8 +41,3 @@ Soy **Middleware Developer** con experiencia en el ecosistema **Oracle**. Me apa
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danimex.lopez.p@outlook.com)  
 
 ---
-
-### 📊 Estadísticas de GitHub  
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=tokyonight)  
